@@ -1,3 +1,10 @@
+[![Kaggle](https://img.shields.io/badge/Kaggle-BirdCLEF%202026-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/birdclef-2026)
+[![Python](https://img.shields.io/badge/Python-3.12%2B-blue)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch)](https://pytorch.org/)
+[![ONNX](https://img.shields.io/badge/ONNX-opset%2018-005CED?logo=onnx)](https://onnx.ai/)
+[![timm](https://img.shields.io/badge/timm-EfficientNet--B0-6B2FA0)](https://github.com/huggingface/pytorch-image-models)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green)](https://www.apache.org/licenses/LICENSE-2.0)
+
 # BirdCLEF 2026 — Acoustic Species Classification
 
 Multi-label bird/amphibian/insect/mammal classification from 5-second audio windows using an EfficientNet-B0 backbone with GeMFreq pooling and attention-based SED (**S**ound **E**vent **D**etection).  
